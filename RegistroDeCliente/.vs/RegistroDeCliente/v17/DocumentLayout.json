@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\parcial 1 progra 1\\registrodecliente\\registrodecliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|solutionrelative:registrodecliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\parcial 1 progra 1\\registrodecliente\\registrodecliente\\capadal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|solutionrelative:registrodecliente\\capadal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\registrodecliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|solutionrelative:registrodecliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\registrodecliente\\bdconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|solutionrelative:registrodecliente\\bdconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\registrodecliente\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508C1F8B-DE32-451D-895C-D0956588C808}|RegistroDeCliente\\RegistroDeCliente.csproj|solutionrelative:registrodecliente\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroDeCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\Form1.cs",
+              "RelativeToolTip": "RegistroDeCliente\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:12:36.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\CapaDAL\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "RegistroDeCliente\\CapaDAL\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\CapaDAL\\ClienteDAL.cs",
+              "RelativeToolTip": "RegistroDeCliente\\CapaDAL\\ClienteDAL.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:57:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroDeCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroDeCliente\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:22:51.542Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BDConexion.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\BDConexion.cs",
+              "RelativeDocumentMoniker": "RegistroDeCliente\\BDConexion.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\BDConexion.cs",
+              "RelativeToolTip": "RegistroDeCliente\\BDConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:36:32.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "RegistroDeCliente\\Modelos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\parcial 1 progra 1\\RegistroDeCliente\\RegistroDeCliente\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "RegistroDeCliente\\Modelos\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:50:15.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
